@@ -1,2 +1,31 @@
-# JEJU_TVL_SKD_MGMT
+# SUMMARY
+
+콘솔프로젝트 : Jeju-Double-Dragon-Tour <br>
+1) 진행기간 : 2019.03.06 ~ 2019.03.15 (9일) <br>
+2) 주요내용 : 제주 랜덤여행 프로그램 개발 <br>
+3) 공헌한 점 : 여행일정표(총 일정표/세부 일정표/매칭일정표) 구현, 화면설계, 소스취합 <br>
+4) 사용 Skill 또는 지식 : Java, ArrayList, HashMap, 파일 입출력 <br>
+5) 결과/성과 : 개발 프로세스 경험, Java 기능 구현 경험 <br>
+
+---
+
+# Jeju-Double-Dragon-Tour
 [Java] Project Team 3 : Jeju Island Travel Schedule Management Program
+
+## Introduce
+핵심업무 :
+- 로그인/회원가입 <br>
+- 홈 화면 <br>
+- 새로운 일정 <br>
+- 여행일정표 <br>
+- 여행경비 <br>
+- 메시지관리 <br>
+- 랜덤여행 <br>
+
+## Member & Role
+- [Chanmi-Kim](https://github.com/Chanmi-Kim) : 여행일정표 구현 / 소스 취합 / 화면설계 / 발표 <br>
+- [mygom1171](https://github.com/mygom1171) : 새로운 일정표 구현 / 버그 수정 / 화면설계 / 보조 발표 <br>
+- [heejeen](https://github.com/heejeen) : 랜덤여행 구현 / 문서 작업 / 화면설계 <br>
+- [kdsss123](https://github.com/kdsss123) : 여행경비, 회원가입 구현 / 데이터 관리 <br>
+- [junwoooo123](https://github.com/junwoooo123) : 여행경비, 로그인 구현 / 데이터 관리 <br>
+- [grills14](https://github.com/grills14) : 메시지관리 구현 / 문서작업 <br>
