@@ -1,17 +1,6 @@
-# SUMMARY
-
-콘솔프로젝트 : Jeju-Double-Dragon-Tour <br>
-1) 진행기간 : 2019.03.06 ~ 2019.03.15 (9일) <br>
-2) 주요내용 : 제주 랜덤여행 프로그램 개발 <br>
-3) 공헌한 점 : 여행일정표(총 일정표/세부 일정표/매칭일정표) 구현, 화면설계, 소스취합 <br>
-4) 사용 Skill 또는 지식 : Java, ArrayList, HashMap, 파일 입출력 <br>
-5) 결과/성과 : 개발 프로세스 경험, Java 기능 구현 경험 <br>
-
----
-
 # Jeju-Double-Dragon-Tour
-[Java] Project Team 3 : Jeju Island Travel Schedule Management Program
-
+- [Java] Project Team 3 : Jeju Island Travel Schedule Management Program <br>
+- 콘솔프로젝트 : 제주 랜덤여행 일정관리 프로그램
 ## Introduce
 ### 핵심업무
 - 로그인/회원가입 <br>
