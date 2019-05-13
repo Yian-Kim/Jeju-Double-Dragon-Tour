@@ -1,5 +1,5 @@
 # Jeju-Double-Dragon-Tour
-- [Java] Project Team 3 : Jeju Island Travel Schedule Management Program <br>
+- [Java] Project Team 3 : Jeju Island Random Travel Schedule Management Program <br>
 - 콘솔프로젝트 : 제주 랜덤여행 일정관리 프로그램
 ## Introduce
 ### 핵심업무
