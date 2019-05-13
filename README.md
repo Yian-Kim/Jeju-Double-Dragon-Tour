@@ -13,7 +13,7 @@
 [Java] Project Team 3 : Jeju Island Travel Schedule Management Program
 
 ## Introduce
-핵심업무 :
+### 핵심업무
 - 로그인/회원가입 <br>
 - 홈 화면 <br>
 - 새로운 일정 <br>
