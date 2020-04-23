@@ -47,7 +47,7 @@
         <th colspan="3">Task</th>
     </tr>
     <tr>
-        <th colspan="3"><img width="600" src="https://lh3.googleusercontent.com/DQkj-QJR0q-wkcNDZGNbYHHmZ_O6kXaWtgs-ti3rfBGLZQ2EmtLB1RNcUY2_69OdsrWhJr9IYKBQLhbJb02jpinCIIrGsoE1azYHuNUMUNlkQcPo2nhSPosGnqWeHCo7UTB48DyURGTHUx99fU2XXU-Ln4JV-yIHOG28OgGXSpZ-v6xADUGvVVQ70ebRyRbogALJZenLoJ4-s6wG2_Rpp1EBooXYQdun_usGX19NFHSW_Jt1shOIsDq8AaOz1ybspDg4XQqiFfmCxZu_HguyajRigZ0dd14XbN4dGCOJM9NaaRl7L4qRMb_AprvbdgrAUN06cjJJcJLvJjSnjLMt5xPdq9D1nQu1lJbW4eHzNSqraM0jO3iWMk0iWXlYoXI-kFB0WjPzFXXxSZuJSHHpDiZrkSP-WVsv6Gq9ifVoSxwYg4ayLHghUHnfgZVeICw_rTyQK_OdsXOTIQHGb5K3sc6arnOUkYx_tQfkerjDXwKkHnUwio94mjdBlVaQGD1bkpkrGoTe-VChXhZYlzuBWNq6Ezt9ueROBdOf4JfvtEyspm5S22bTvpE0mgMozi2n6Wv8EIiAJvkvQpQfKGmaTmb5zVeLkA2fEOIKUfhRnKg-aScjaG09l4U1MnD01lqIp0AvlGF61XOXnbQkV0Oeez_ucN-cXdHvVFg7VjJwp1bSwkciW3jqAgRoGh7GJg=w960-h540-no"></th>
+        <th colspan="3"><img width="600" src="https://lh3.googleusercontent.com/93GPhwVHyM2sJQWHg4G_Gi3lhX_fp5Xpo6ZS2AnOpvgvwfFvMPanWOks9ERl8kFtVNVc9sey2H5TRGMlHxX6r-oLwd6fjBTZCWVCMiujCw8MAoONCKWIfszo0UkqD5PNrqb7iTJoUk-_873Se2dAxvhBpKhnCOMGoRZ4TuT5z6P5Qm_KqtIAfxu5K0mwlBBwwoqGftQuo0DMPvLA5t-7DpFw1Yi6fy-YY3_ejp0SKqIfDwPoO4WJiQOkHeCXNNDN5ulIXQlkc9jblzo9_WxAAWrGsJKUe63ke6OM3SwCeWEyH8av9N5qM3sV_JLXP4MrDYcw8A1qc9NOWfOumGqWiz9LA6jfFqiMt0z4O7XLYwxWsOc9yfiIopwHUTgJ9-mHZs2HNi0i8AWsRxaqQ4xIzZjWi5jhTwPG_oMFhQMFddD9w9_Zg0z5_7hTG5hFNvRf1_-6jQMFEmZxD_Jr1Osi-wHCfKHGeM6JKJTnvDosfNAkAglwcynimkM0Cd9jgu-pcddpVnQtgrUvIzZoTwjeh0YdvVc_v5V-yKJ7md9FMjzpgdGriBiXLZwiEg0yjIK4AnteZyOqSXtrEgRcz2mqhi8ZsPg1vUZQ4dlT5TgHpW-Ftc0s7mWvHtRCwpp7BpjlVBO6ahGA7wuBfyA5uti1MYZcnFQ4_nMdNoYBVZV9zfWywTyPEvMLseDgImt5Mw=w1280-h720-no"></th>
     </tr>
     <tr>
        <th>Sign Up & In</th>
