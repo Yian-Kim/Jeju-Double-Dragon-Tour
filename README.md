@@ -26,7 +26,7 @@
     </tr>
       <tr>
         <th>프로젝트 개요</th>
-        <th>제주 랜덤매칭여행 일정관리 프로그램 제작</th>
+        <th>제주 랜덤매칭여행 일정관리 프로그램</th>
         <th>개발 환경</th>
         <th>Windows 10, Eclipse JEE, Java(JDK1.8)</th>
     </tr>
@@ -40,9 +40,15 @@
 
 ### 📼 Appearance
 
-자바 컬렉션과 파일 입출력을 활용한 제주 랜덤여행 일정관리 프로그램입니다.
+자바 컬렉션과 파일 입출력을 이용한 제주 랜덤여행 일정관리 프로그램입니다.
 
 <table>
+    <tr>
+        <th colspan="3">Task</th>
+    </tr>
+    <tr>
+        <th colspan="3"><img src="https://lh3.googleusercontent.com/DQkj-QJR0q-wkcNDZGNbYHHmZ_O6kXaWtgs-ti3rfBGLZQ2EmtLB1RNcUY2_69OdsrWhJr9IYKBQLhbJb02jpinCIIrGsoE1azYHuNUMUNlkQcPo2nhSPosGnqWeHCo7UTB48DyURGTHUx99fU2XXU-Ln4JV-yIHOG28OgGXSpZ-v6xADUGvVVQ70ebRyRbogALJZenLoJ4-s6wG2_Rpp1EBooXYQdun_usGX19NFHSW_Jt1shOIsDq8AaOz1ybspDg4XQqiFfmCxZu_HguyajRigZ0dd14XbN4dGCOJM9NaaRl7L4qRMb_AprvbdgrAUN06cjJJcJLvJjSnjLMt5xPdq9D1nQu1lJbW4eHzNSqraM0jO3iWMk0iWXlYoXI-kFB0WjPzFXXxSZuJSHHpDiZrkSP-WVsv6Gq9ifVoSxwYg4ayLHghUHnfgZVeICw_rTyQK_OdsXOTIQHGb5K3sc6arnOUkYx_tQfkerjDXwKkHnUwio94mjdBlVaQGD1bkpkrGoTe-VChXhZYlzuBWNq6Ezt9ueROBdOf4JfvtEyspm5S22bTvpE0mgMozi2n6Wv8EIiAJvkvQpQfKGmaTmb5zVeLkA2fEOIKUfhRnKg-aScjaG09l4U1MnD01lqIp0AvlGF61XOXnbQkV0Oeez_ucN-cXdHvVFg7VjJwp1bSwkciW3jqAgRoGh7GJg=w960-h540-no"></th>
+    </tr>
     <tr>
        <th>Sign Up & In</th>
        <th>New Schedule</th>
@@ -126,9 +132,3 @@
         <th>의견제안, <br>화면설계, <br>문서작업</th>
     </tr>
 </table>
-
-
-
-
-## 3. Member & Role
-
