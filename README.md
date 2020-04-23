@@ -47,7 +47,7 @@
         <th colspan="3">Task</th>
     </tr>
     <tr>
-        <th colspan="3"><img width="600" src="https://lh3.googleusercontent.com/93GPhwVHyM2sJQWHg4G_Gi3lhX_fp5Xpo6ZS2AnOpvgvwfFvMPanWOks9ERl8kFtVNVc9sey2H5TRGMlHxX6r-oLwd6fjBTZCWVCMiujCw8MAoONCKWIfszo0UkqD5PNrqb7iTJoUk-_873Se2dAxvhBpKhnCOMGoRZ4TuT5z6P5Qm_KqtIAfxu5K0mwlBBwwoqGftQuo0DMPvLA5t-7DpFw1Yi6fy-YY3_ejp0SKqIfDwPoO4WJiQOkHeCXNNDN5ulIXQlkc9jblzo9_WxAAWrGsJKUe63ke6OM3SwCeWEyH8av9N5qM3sV_JLXP4MrDYcw8A1qc9NOWfOumGqWiz9LA6jfFqiMt0z4O7XLYwxWsOc9yfiIopwHUTgJ9-mHZs2HNi0i8AWsRxaqQ4xIzZjWi5jhTwPG_oMFhQMFddD9w9_Zg0z5_7hTG5hFNvRf1_-6jQMFEmZxD_Jr1Osi-wHCfKHGeM6JKJTnvDosfNAkAglwcynimkM0Cd9jgu-pcddpVnQtgrUvIzZoTwjeh0YdvVc_v5V-yKJ7md9FMjzpgdGriBiXLZwiEg0yjIK4AnteZyOqSXtrEgRcz2mqhi8ZsPg1vUZQ4dlT5TgHpW-Ftc0s7mWvHtRCwpp7BpjlVBO6ahGA7wuBfyA5uti1MYZcnFQ4_nMdNoYBVZV9zfWywTyPEvMLseDgImt5Mw=w1280-h720-no"></th>
+        <th colspan="3"><img width="600" src="https://tinyurl.com/y77yjawh"></th>
     </tr>
     <tr>
        <th>Sign Up & In</th>
