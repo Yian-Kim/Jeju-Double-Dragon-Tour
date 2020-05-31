@@ -9,7 +9,7 @@
         <th>프로젝트명</th>
         <th>Jeju Double Dragon Tour</th>
         <th>개발 기간</th>
-        <th>2019.03.06. ~ 2019.03.15. <br>(일 4시간, 총 9일)</th>
+        <th>2019.03.06. ~ 2019.03.15.</th>
     </tr>
     <tr>
         <th>프로젝트 성격</th>
@@ -27,14 +27,23 @@
       <tr>
         <th>프로젝트 개요</th>
         <th>제주 랜덤매칭여행 일정관리 프로그램</th>
-        <th>개발 환경</th>
-        <th>Windows 10, Eclipse JEE, Java(JDK1.8)</th>
+        <th>개발환경</th>
+        <th>Windows 10</th>
     </tr>
-        <tr>
-        <th>주요 기술</th>
-        <th>Java</th>
-        <th>비고</th>
-        <th> </th>
+    <tr>
+        <th colspan="4">사용한 Skill 또는 지식</th>
+    </tr>  
+    <tr>
+        <th>개발언어</th>
+        <th>Java(JDK 1.8)</th>
+        <th>형상관리</th>
+        <th>Github, Git Bash, Source Tree</th>
+    </tr>
+    <tr>
+        <th>개발도구</th>
+        <th>Eclipse JEE, Edit Plus</th>
+        <th>사용기술</th>
+        <th>Java console</th>
     </tr>
 </table>
 
